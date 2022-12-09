@@ -11,7 +11,7 @@ class OngenerateRoutes {
     var args = settings.arguments;
     switch (settings.name) {
       case NavigatorConst.home_view:
-        return sampleRoute(const HomePage());
+        return sampleRoute(const SnakeGame());
     }
     return null;
   }
