@@ -197,7 +197,7 @@ class _SnakeGameState extends State<SnakeGame> {
                       startGame();
                     },
                     child: const Text("S t a r t"),
-                  )
+                  ),
                 ],
               ))
         ],
